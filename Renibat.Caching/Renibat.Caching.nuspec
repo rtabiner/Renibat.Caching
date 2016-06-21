@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Renibat.Caching</id>
+    <version>1.0.0</version>
+    <authors>Rob Tabiner</authors>
+    <description>Caching client for .NET projects.</description>
+  </metadata>
+  <files>
+    <file src="bin\Release\*.dll" target="lib" />
+    <file src="bin\Release\*.pdb" target="lib" />
+  </files>
+</package>
